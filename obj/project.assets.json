@@ -611,19 +611,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gabriel Ângelo\\.nuget\\packages\\": {}
+    "C:\\Users\\aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel Ângelo\\.vscode\\una-sdm-eleicaobrasil-net\\EleicaoBrasilApi.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Documents\\EleicaoBrasilApi\\EleicaoBrasilApi.csproj",
       "projectName": "EleicaoBrasilApi",
-      "projectPath": "C:\\Users\\Gabriel Ângelo\\.vscode\\una-sdm-eleicaobrasil-net\\EleicaoBrasilApi.csproj",
-      "packagesPath": "C:\\Users\\Gabriel Ângelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel Ângelo\\.vscode\\una-sdm-eleicaobrasil-net\\obj\\",
+      "projectPath": "C:\\Users\\aluno\\Documents\\EleicaoBrasilApi\\EleicaoBrasilApi.csproj",
+      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aluno\\Documents\\EleicaoBrasilApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gabriel Ângelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -685,7 +685,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
